@@ -1,0 +1,16 @@
+[project]
+name = "illari"
+version = "0.1.0"
+description = "This project is an automated trading system based on Artificial Intelligence. It uses multiple \"experts\" to analyze historical data, social media sentiment, and investment strategies. A final model will make buy or sell decisions based on these analyses."
+authors = [
+    {name = "Javier Paz",email = "lujapak@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
