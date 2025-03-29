@@ -58,11 +58,11 @@ This project is an automated trading system based on Artificial Intelligence. It
 
 ## 📌 Next Steps
 
-✅ Implement historical data collection.
-✅ Develop the historical data analysis model.
-✅ Integrate sentiment analysis.
-✅ Build AI-based trading strategies.
-✅ Develop the final decision-making engine.
+- Implement historical data collection.
+- Develop the historical data analysis model.
+- Integrate sentiment analysis.
+- Build AI-based trading strategies.
+- Develop the final decision-making engine.
 
 ---
 
